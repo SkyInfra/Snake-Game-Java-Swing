@@ -1,0 +1,2 @@
+30,5,haseeb,Snow,Medium
+0,5,hamza,Snow,Medium
